@@ -1,0 +1,1 @@
+# yml2props-maven-plugin
